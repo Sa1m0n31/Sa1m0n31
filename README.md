@@ -17,5 +17,24 @@
 <br/>
 <br/>
 
-<h3 align="left">Languages and Tools:</h3>
-:point_right: javascript
+<h3 align="left">Languages and Tools which I use the most:</h3>
+:point_right: Javascript
+:point_right: React
+:point_right: Node.JS
+:point_right: Express
+:point_right: HTML5
+:point_right: CSS3
+:point_right: SASS
+:point_right: Wordpress
+
+<h3 align="left">Other techonologies:</h3>
+:point_right: Bootstrap
+:point_right: WooCommerce
+:point_right: Java
+:point_right: C++
+:point_right: Gatsby
+:point_right: GraphQL
+:point_right: Java Swing
+:point_right: QT
+:point_right: SQL (PostgreSQL)
+:point_right: MongoDB
