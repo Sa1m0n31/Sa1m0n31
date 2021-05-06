@@ -18,23 +18,23 @@
 <br/>
 
 <h3 align="left">Languages and Tools which I use the most:</h3>
-:point_right: Javascript
-:point_right: React
-:point_right: Node.JS
-:point_right: Express
-:point_right: HTML5
-:point_right: CSS3
-:point_right: SASS
-:point_right: Wordpress
+:point_right: Javascript<br/>
+:point_right: React<br/>
+:point_right: Node.JS<br/>
+:point_right: Express<br/>
+:point_right: HTML5<br/>
+:point_right: CSS3<br/>
+:point_right: SASS<br/>
+:point_right: Wordpress<br/>
 
 <h3 align="left">Other techonologies:</h3>
-:point_right: Bootstrap
-:point_right: WooCommerce
-:point_right: Java
-:point_right: C++
-:point_right: Gatsby
-:point_right: GraphQL
-:point_right: Java Swing
-:point_right: QT
-:point_right: SQL (PostgreSQL)
-:point_right: MongoDB
+:point_right: Bootstrap<br/>
+:point_right: WooCommerce<br/>
+:point_right: Java<br/>
+:point_right: C++<br/>
+:point_right: Gatsby<br/>
+:point_right: GraphQL<br/>
+:point_right: Java Swing<br/>
+:point_right: QT<br/>
+:point_right: SQL (PostgreSQL)<br/>
+:point_right: MongoDB<br/>
