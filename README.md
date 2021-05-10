@@ -28,7 +28,7 @@
 :point_right: SASS<br/>
 :point_right: Wordpress<br/>
 
-<h3 align="left">Other techonologies:</h3>
+<h3 align="left">Other technologies:</h3>
 :point_right: Bootstrap<br/>
 :point_right: WooCommerce<br/>
 :point_right: Java<br/>
