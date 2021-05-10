@@ -9,7 +9,7 @@
 | Project                                  | Repository link                                      | Website                   |
 |------------------------------------------|------------------------------------------------------|---------------------------|
 | Lean Healthcare Academy website          | https://github.com/Sa1m0n31/lean-w-medycynie         | https://leanwmedycynie.pl |
-| Storefront child theme for E-Commerce    | https://github.com/Sa1m0n31/procentowo-e-commerce    | https://procentowo.com    |
+| E-Commerce with special alcohol gifts    | https://github.com/Sa1m0n31/procentowo-e-commerce    | https://procentowo.com    |
 | React website for the lawyer             | https://github.com/Sa1m0n31/twoj-mecenas             | https://twojmecenas.pl    |
 | Company website for agricultural company | https://github.com/Sa1m0n31/kalchem                  | https://kalchem.com.pl    |
 | Custom WordPress theme for football club | https://github.com/Sa1m0n31/wordpress-theme-futbolia | https://futbolia.pl       |
