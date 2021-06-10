@@ -13,6 +13,7 @@
 | React website for the lawyer             | https://github.com/Sa1m0n31/twoj-mecenas             | https://twojmecenas.pl    |
 | Company website for agricultural company | https://github.com/Sa1m0n31/kalchem                  | https://kalchem.com.pl    |
 | Custom WordPress theme for football club | https://github.com/Sa1m0n31/wordpress-theme-futbolia | https://futbolia.pl       |
+| Tool for diet and activity tracking      | https://github.com/Sa1m0n31/diet-tracker             | http://diet-tracker.szymonburak.pl    |
 | WP custom theme for company from Norway  | https://github.com/Sa1m0n31/flightmedia              | https://flightmedia.no    |
 
 <br/>
