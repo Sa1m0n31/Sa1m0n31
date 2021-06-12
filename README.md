@@ -21,7 +21,6 @@
 | Simple SPA for healthcare company        | https://github.com/Sa1m0n31/lean-effect     | http://leaneffect.pl    |
 
 <br/>
-<br/>
 
 <h3 align="left">Languages and Tools which I use the most:</h3>
 :point_right: Javascript<br/>
