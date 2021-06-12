@@ -18,6 +18,7 @@
 | Company website for accounting office    | https://github.com/Sa1m0n31/tabularii                | https://tabularii-ksiegowosc.pl/    |
 | WP custom theme for veterans' organization  | https://github.com/Sa1m0n31/skmponz-bydgoszcz     | https://skmponz.bydgoszcz.pl/    |
 | Gatsby webstie for cameraman             | https://github.com/Sa1m0n31/drokam-pl     | https://drokam-studio.pl    |
+| Simple SPA for healthcare company        | https://github.com/Sa1m0n31/lean-effect     | http://leaneffect.pl    |
 
 <br/>
 <br/>
