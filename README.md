@@ -12,7 +12,7 @@
 | E-Commerce with special alcohol gifts    | https://github.com/Sa1m0n31/procentowo-e-commerce    | https://procentowo.com    |
 | React website for the lawyer             | https://github.com/Sa1m0n31/twoj-mecenas             | https://twojmecenas.pl    |
 | Company website for agricultural company | https://github.com/Sa1m0n31/kalchem                  | https://kalchem.com.pl    |
-| E-Commerce with MERN stack for massage gun    | https://github.com/Sa1m0n31/hotic-polska    | https://hptic-polska.pl    |
+| E-Commerce with MERN stack for massage gun    | https://github.com/Sa1m0n31/hotic-polska    | https://hotic-polska.pl    |
 | Kindergarten and nursery website  | https://github.com/Sa1m0n31/kindergarten-and-nursery-website                  | https://przedszkoleswarzedz.pl    |
 | Custom WordPress theme for football club | https://github.com/Sa1m0n31/wordpress-theme-futbolia | https://futbolia.pl       |
 | Tool for diet and activity tracking      | https://github.com/Sa1m0n31/diet-tracker             | http://diet-tracker.szymonburak.pl    |
