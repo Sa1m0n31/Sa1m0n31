@@ -22,6 +22,7 @@
 | Gatsby webstie for cameraman             | https://github.com/Sa1m0n31/drokam-pl     | https://drokam-studio.pl    |
 | Simple SPA for healthcare company        | https://github.com/Sa1m0n31/lean-effect     | http://leaneffect.pl    |
 | Woocommerce store with healthy food       | https://github.com/Sa1m0n31/ekozdrowko     | https://ekozdrowko.pl    |
+| React website for photovoltaics company       | https://github.com/Sa1m0n31/liderenergia     | https://liderenergia.pl    |
 
 <br/>
 
