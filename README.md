@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Szymon</h1>
-<h3 align="center">A passionate frontend developer and Computer Science student from Poland</h3>
+<h3 align="center">A passionate full-stack developer and Computer Science student from Poland</h3>
 
 <br/>
 <br/>
