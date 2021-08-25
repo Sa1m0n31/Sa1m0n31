@@ -23,7 +23,7 @@
 | Simple SPA for healthcare company        | https://github.com/Sa1m0n31/lean-effect     | http://leaneffect.pl    |
 | Woocommerce store with healthy food       | https://github.com/Sa1m0n31/ekozdrowko     | https://ekozdrowko.pl    |
 | React website for photovoltaics company       | https://github.com/Sa1m0n31/liderenergia     | https://liderenergia.pl    |
-| WordPress theme for Benmar comapny       | https://github.com/Sa1m0n31/czp-premium     | https://czppremium.pl    |
+| WordPress theme for CZP comapny       | https://github.com/Sa1m0n31/czp-premium     | https://czppremium.pl    |
 
 <br/>
 
