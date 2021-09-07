@@ -49,5 +49,5 @@
 :point_right: GraphQL<br/>
 :point_right: Java Swing<br/>
 :point_right: QT<br/>
-:point_right: SQL (PostgreSQL)<br/>
+:point_right: SQL (Oracle, PostgreSQL, MySQL)<br/>
 :point_right: MongoDB<br/>
