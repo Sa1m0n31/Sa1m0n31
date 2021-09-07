@@ -24,6 +24,9 @@
 | Woocommerce store with healthy food       | https://github.com/Sa1m0n31/ekozdrowko     | https://ekozdrowko.pl    |
 | React website for photovoltaics company       | https://github.com/Sa1m0n31/liderenergia     | https://liderenergia.pl    |
 | WordPress theme for CZP comapny       | https://github.com/Sa1m0n31/czp-premium     | https://czppremium.pl    |
+| E-commerce system for food store       | https://github.com/Sa1m0n31/brunchbox     | https://brunchbox.pl    |
+| WooCommerce store with clothes       | https://github.com/Sa1m0n31/alcanta     | https://alcanta.pl    |
+| WordPress custom theme for marketing agency       | https://github.com/Sa1m0n31/happy-13     | http://happy13.com.pl    |
 
 <br/>
 
