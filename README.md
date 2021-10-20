@@ -27,6 +27,7 @@
 | E-commerce system for food store       | https://github.com/Sa1m0n31/brunchbox     | https://brunchbox.pl    |
 | WooCommerce store with clothes       | https://github.com/Sa1m0n31/alcanta     | https://alcanta.pl    |
 | WordPress custom theme for marketing agency       | https://github.com/Sa1m0n31/happy-13     | http://happy13.com.pl    |
+| E-commerce with NodeJS and React for Caloe shop       |  https://github.com/Sa1m0n31/aloes-shop    | https://caloe.pl |
 
 <br/>
 
