@@ -13,8 +13,7 @@
 | SPA for BenmarPompy company            | https://github.com/Sa1m0n31/benmarpompy             | https://benmarpompy.pl    |
 | Company website for agricultural company | https://github.com/Sa1m0n31/kalchem                  | https://kalchem.com.pl    |
 | E-Commerce with MERN stack for massage gun    | https://github.com/Sa1m0n31/hotic-polska    | https://hotic-polska.pl    |
-| Kindergarten and nursery website  | https://github.com/Sa1m0n31/kindergarten-and-nursery-website                  | https://przedszkoleswarzedz.pl    |
-| Custom WordPress theme for football club | https://github.com/Sa1m0n31/wordpress-theme-futbolia | https://futbolia.pl       |
+| Blog and store with WordPress and WooCommerce  | https://github.com/Sa1m0n31/zimnerzeczy                  | https://zimnerzeczy.pl    |
 | Tool for diet and activity tracking      | https://github.com/Sa1m0n31/diet-tracker             | http://diet-tracker.szymonburak.pl    |
 | WP custom theme for company from Norway  | https://github.com/Sa1m0n31/flightmedia              | https://flightmedia.no    |
 | Company website for accounting office    | https://github.com/Sa1m0n31/tabularii                | https://tabularii-ksiegowosc.pl/    |
